@@ -1,0 +1,11 @@
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\Ellemy.Blogs.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\Ellemy.Blogs.pdb
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\Ellemy.CQRS.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\nunit.framework.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\nunit.mocks.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\pnunit.framework.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\Ellemy.CQRS.pdb
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\bin\Debug\nunit.framework.xml
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\obj\Debug\ResolveAssemblyReference.cache
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\obj\Debug\Ellemy.Blogs.dll
+c:\Git\Blogs\Ellemy.Blogs\Ellemy.Blogs\obj\Debug\Ellemy.Blogs.pdb
