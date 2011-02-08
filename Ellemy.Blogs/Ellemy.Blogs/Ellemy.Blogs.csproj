@@ -48,16 +48,26 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ItsAboutBehavior_2\VisitorsPerDayLineItem.cs" />
+    <Compile Include="ItsAboutBehavior_2\SiteVisit.cs" />
+    <Compile Include="ItsAboutBehavior_2\SiteVisitRepository.cs" />
+    <Compile Include="ItsAboutBehavior_2\SiteVisted.cs" />
+    <Compile Include="ItsAboutBehavior_2\Visitor.cs" />
+    <Compile Include="ItsAboutBehavior_2\VisitorsPerDayReportWriter.cs" />
+    <Compile Include="ItsAboutBehavior_2\VisitorsPerDayRepository.cs" />
+    <Compile Include="ItsAboutBehavior_2\Visitor_tests.cs" />
     <Compile Include="ItsAboutBehavior\ReportWriter.cs" />
     <Compile Include="ItsAboutBehavior\TimeFrame.cs" />
     <Compile Include="ItsAboutBehavior\VisitorForFirstTimeInDay.cs" />
     <Compile Include="ItsAboutBehavior\Visitor.cs" />
     <Compile Include="ItsAboutBehavior\Visitor_tests.cs" />
+    <Compile Include="ItsAboutBehavior_2\VisitRecorderService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
