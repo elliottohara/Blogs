@@ -1,0 +1,17 @@
+bin
+Bin
+obj
+logs
+*.suo
+*.csproj.user
+_BuildOutput
+*.sln.cache
+.metadata
+target
+.DS_Store
+Madre.ImageService.Web/imageresizecache
+geoipcity.dat
+_ReSharper*
+*Resharper*
+BuildReports
+
