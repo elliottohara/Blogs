@@ -60,7 +60,7 @@ namespace AwsFun
                 }
             }
             var publishMessageRequest = new PublishRequest()
-                .WithMessage("Hello fro, the Amazon cloud")
+                .WithMessage(DateTime.Now.ToString() + " YOOOOOOOO!")
                 .WithSubject("Elliott has an amazing blog")
                 .WithTopicArn(topicArn);
             snsClient.Publish(publishMessageRequest);

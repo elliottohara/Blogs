@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="56CB0C74-EABC-42F1-B431-BDCB9A9EB5CD" ModuleId="Ellemy.Blogs" />
+  <Module PersistentId="BB2FB6AC-D455-4423-91B1-1820263CF8F1" ModuleId="AwsFun" />
+  <Module PersistentId="5301AFA9-35E1-4203-A223-7BCF7DD92CA7" ModuleId="CloudListener" />
 </Modules>
